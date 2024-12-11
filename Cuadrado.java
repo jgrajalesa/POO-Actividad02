@@ -1,4 +1,4 @@
-package PruebasFigura;
+package PruebaFigura;
 
 public class Cuadrado {
     int lado;

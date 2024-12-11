@@ -1,4 +1,4 @@
-package PruebasFigura;
+package PruebaFigura;
 
 public class Rectangulo {
     int base;
